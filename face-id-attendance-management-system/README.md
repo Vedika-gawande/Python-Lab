@@ -273,5 +273,5 @@ backend/
 ----Group Members----------
 1. Vedika Gawande BT25S05F002
 2. Anushka Kharat BT25S05F003
-3. Anushka Sukhadeve BT24S05F007
-4. Prajkta Vaidya BT24S05F008
+3. Anushka Sukhadeve BT25S05F007
+4. Prajkta Vaidya BT25S05F008
